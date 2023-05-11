@@ -7,7 +7,7 @@
 <!-- Trophies -->
 <!-- Enable when profile is a bit better -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LordSauron5&theme=dracula&column=7" alt="LordSauron5" /></a> </p>-->
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 ## About Me: 
