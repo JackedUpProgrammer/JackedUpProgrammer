@@ -21,13 +21,6 @@
 - 📫 How to reach me **jhl.scheepers229@gmail.com**
 
 <br>
-
-<br>
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
