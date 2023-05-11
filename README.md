@@ -8,7 +8,7 @@
 <!-- Enable when profile is a bit better -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LordSauron5&theme=dracula&column=7" alt="LordSauron5" /></a> </p>-->
 
-<p><img align="right" src="https://github.com/JackedUpProgrammer/JackedUpProgrammer/blob/master/animation_500_kxa883sd.gif" alt="JackedUpProgrammer" /></p>
+
 
 ## About Me: 
 
