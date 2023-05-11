@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Scheepers</h1>
-
-
- 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-
 ## About Me: 
 
 - 🌍 A Software Developer based in Paarl, South Africa.
@@ -14,13 +9,7 @@
 - 🎓 Bachelor of Science in Information Technology Graduate of NWU Pukke
 
 - 📫 How to reach me **jhl.scheepers229@gmail.com**
-
-
-
 <br>
-
-
-
 <h3 align="center">Johan Scheepers's GitHub Stats :-</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
     <div align="center">
