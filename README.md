@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Scheepers</h1>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-## About Me: 
+About Me: 
 
 - 🌍 A Software Developer based in Paarl, South Africa.
 
