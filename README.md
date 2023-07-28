@@ -4,7 +4,7 @@ About Me:
 
 - 🌍 A Software Developer based in Paarl, South Africa.
 
-- 🌱 Working as a **Junior Developer** at **[Jumping Fox Software (Pty) Ltd](https://jumpingfoxsoftware.com/)**.
+- 🌱 Working as a **Junior Developer**  and **Data Analyst** at **[Jumping Fox Software (Pty) Ltd](https://jumpingfoxsoftware.com/)**.
 
 - 🎓 Bachelor of Science in Information Technology Graduate of NWU Pukke
 
