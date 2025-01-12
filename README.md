@@ -16,7 +16,7 @@ About Me:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="JackedUpProgrammer" style="width:420px;" />
   </div>
   <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackedUpProgrammer&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="JackedUpProgrammer" style="width:420px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JackedUpProgrammer&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="JackedUpProgrammer" style="width:420px;" />
   </div>
 </div>
 
