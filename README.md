@@ -1,8 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <h3 align="center">Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. <br>Highly proficient in web-applications and database management.🌟.</h3>
 
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JackedUpProgrammer&label=Profile%20views&color=0e75b6&style=flat" alt="JackedUpProgrammer" />
   <img src="https://img.shields.io/badge/Age-25-blue" />
@@ -24,7 +22,7 @@ About Me:
 
 - 📫 How to reach me **jhl.scheepers229@gmail.com**
 <br>
-<h3 align="center">Johan Scheepers's GitHub Stats :-</h3>
+<h1 align="center">Johan Scheepers's GitHub Stats :</h1>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="JackedUpProgrammer" style="width:420px;" />
@@ -50,4 +48,4 @@ About Me:
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 
-Last Updated: 11-May-2023 by [Johan Scheepers](https://github.com/JackedUpProgrammer/)
+Last Updated: 14-Jan-2025 by [Johan Scheepers](https://github.com/JackedUpProgrammer/)
