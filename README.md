@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Scheepers</h1>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="width:420px;"/>
 About Me: 
 
 - 🌍 A Software Developer based in Paarl, South Africa.
@@ -14,7 +14,7 @@ About Me:
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="JackedUpProgrammer" style="width:420px;" />
-     <a href="https://app.daily.dev/johanscheepers"><img src="https://api.daily.dev/devcards/v2/0cLw5W9s4rrRP79oYfsjH.png?r=6uj&type=wide" width="652" alt="Johan Scheepers's Dev Card"/></a>
+     <a href="https://app.daily.dev/johanscheepers"><img src="https://api.daily.dev/devcards/v2/0cLw5W9s4rrRP79oYfsjH.png?r=6uj&type=wide" width="652" alt="Johan Scheepers's Dev Card" style="width:420px;"/></a>
   </div>
   
 </div>
