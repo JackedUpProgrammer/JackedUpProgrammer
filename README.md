@@ -1,5 +1,17 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+<h3 align="center">Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. <br>Highly proficient in web-applications and database management.🌟.</h3>
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JackedUpProgrammer&label=Profile%20views&color=0e75b6&style=flat" alt="JackedUpProgrammer" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Lives-South%20Africa-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%26Afrikaans-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+</p>
+<br>
+
 <h1 align="center">Hi 👋, I'm Johan Scheepers</h1>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="width:420px;"/>
 About Me: 
