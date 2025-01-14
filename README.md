@@ -12,7 +12,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="width:420px;"/>
 About Me: 
 
-- 🌍 Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. Highly proficient in web-applications and database management. based in Paarl, South Africa.
+- 🌍 Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. Highly proficient in web-applications and database management. Based in Paarl, South Africa.
 
 - 🌱 Working as a **Junior Developer**  and **Data Analyst** at **[Jumping Fox Software (Pty) Ltd](https://jumpingfoxsoftware.com/)**.
 
