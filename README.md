@@ -26,9 +26,6 @@ About Me:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="JackedUpProgrammer"     style="width:420px;" />
      <a href="https://app.daily.dev/johanscheepers"><img src="https://api.daily.dev/devcards/v2/0cLw5W9s4rrRP79oYfsjH.png?r=6uj&type=wide" width="652" alt="Johan Scheepers's Dev Card" style="width:420px;"/></a>
   </div>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=JackedUpProgrammer)](https://git.io/streak-stats)
-  
 </div>
 
 <p align="left">
