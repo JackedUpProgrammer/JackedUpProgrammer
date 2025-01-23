@@ -19,7 +19,7 @@ About Me:
 - 🎓 Bachelor of Science in Information Technology Graduate of NWU Pukke
 
 - 📫 How to reach me **jhl.scheepers229@gmail.com**
-<br>
+
 <h1 align="center">Johan Scheepers's GitHub Stats :</h1>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
     <div align="center">
