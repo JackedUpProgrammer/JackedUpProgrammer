@@ -14,8 +14,6 @@ About Me:
 
 - 🌍 Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. Highly proficient in web-applications and database management. Based in Paarl, South Africa.
 
-- 🌱 Working as a **Web Developer**  and **Data Analyst** at **[Jumping Fox Software (Pty) Ltd](https://jumpingfoxsoftware.com/)** and **[Jonker Vorster Attorneys (Pty) Ltd](https://www.jvattorneys.co.za/)**.
-
 - 🎓 Bachelor of Science in Information Technology Graduate of NWU Pukke
 
 - 📫 How to reach me **jhl.scheepers229@gmail.com**
