@@ -1,7 +1,8 @@
 <h1 align="center">Johan Scheepers</h1>
 
 <p align="center">
-  <b>Technical Consultant</b> &nbsp;·&nbsp; Dynamics 365 Finance &amp; Operations &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Power Platform<br>
+  <b>Microsoft Certified: Power Platform Solution Architect Expert</b><br>
+  Technical Consultant &nbsp;·&nbsp; Dynamics 365 Finance &amp; Operations &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Power Platform<br>
   <sub>Brackenfell, Western Cape, South Africa</sub>
 </p>
 
@@ -12,6 +13,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Solution%20Architect-Expert-FFB900?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Dynamics%20365%20F%26O-002050?style=flat-square&logo=microsoftdynamics365&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerbi&logoColor=white" />
@@ -27,10 +29,14 @@ I'm the person clients call when the deployment fails at 22:00, the staging tabl
 
 My days are spent inside **Dynamics 365 Finance & Operations**, **Azure** and **Azure DevOps** — untangling release pipelines, running down production incidents, restoring databases, and translating *"the system is broken"* into an actual root cause that someone can act on.
 
+As a **Microsoft Certified Power Platform Solution Architect Expert**, I work at both ends of the problem: designing the solution architecture that keeps an implementation coherent, then staying hands-on enough to debug it at two in the morning.
+
 My evenings go somewhere else entirely.
 
 ```yaml
 role:        Technical Consultant — Dynamics 365 F&O
+certified:   Power Platform Solution Architect Expert (PL-600)
+             Power Platform Functional Consultant Associate (PL-200)
 education:   BSc Information Technology, North-West University (Pukke)
 languages:   Afrikaans · English · SQL
 side_quest:  Mzansi Work
@@ -74,13 +80,31 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
 
 <br>
 
-## Certifications
+## Microsoft Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Dynamics%20365%20Fundamentals%20CRM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Dynamics%20365%20Fundamentals%20ERP-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <b>EXPERTISE · COMMITMENT · IMPACT</b>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERT-Power%20Platform%20Solution%20Architect-FFB900?style=for-the-badge&logo=microsoft&logoColor=black&labelColor=1A1A1A" /><br>
+  <img src="https://img.shields.io/badge/ASSOCIATE-Power%20Platform%20Functional%20Consultant-C0C0C0?style=for-the-badge&logo=microsoft&logoColor=black&labelColor=1A1A1A" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FUNDAMENTALS-Dynamics%20365%20CRM-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=1A1A1A" />
+  <img src="https://img.shields.io/badge/FUNDAMENTALS-Power%20Platform-742774?style=flat-square&logo=microsoft&logoColor=white&labelColor=1A1A1A" />
+  <img src="https://img.shields.io/badge/FUNDAMENTALS-Dynamics%20365%20ERP-002050?style=flat-square&logo=microsoft&logoColor=white&labelColor=1A1A1A" />
+</p>
+
+<table align="center">
+  <tr><th align="left">Level</th><th align="left">Certification</th></tr>
+  <tr><td><b>Expert</b></td><td>Power Platform Solution Architect Expert</td></tr>
+  <tr><td><b>Associate</b></td><td>Power Platform Functional Consultant Associate</td></tr>
+  <tr><td>Fundamentals</td><td>Dynamics 365 Fundamentals (CRM)</td></tr>
+  <tr><td>Fundamentals</td><td>Power Platform Fundamentals</td></tr>
+  <tr><td>Fundamentals</td><td>Dynamics 365 Fundamentals (ERP)</td></tr>
+</table>
 
 <br>
 
@@ -92,7 +116,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
 | **Shipping** | D365 F&O incident resolution, release pipelines, App Service deployments |
 | **Learning** | Deeper Power Platform, Dataverse architecture, AI-assisted development |
 | **Automating** | Anything that gets done more than twice |
-| **Ask me about** | D365 F&O troubleshooting, DMF staging cleanup, release pipelines, custom domain redirects |
+| **Ask me about** | Power Platform solution architecture, D365 F&O troubleshooting, DMF staging cleanup, release pipelines, custom domain redirects |
 
 <br>
 
