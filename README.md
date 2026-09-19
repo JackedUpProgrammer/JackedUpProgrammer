@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Based%20in-South%20Africa-00C2A8?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Speaks-Afrikaans%20%7C%20English-0E75B6?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-7B2FF7?style=flat-square&labelColor=0D1117" />
+  <a href="https://www.mzansi.work"><img src="https://img.shields.io/badge/mzansi.work-Live-00C2A8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -40,7 +41,7 @@ certified:   Power Platform Solution Architect Expert (PL-600)
              Power Platform Functional Consultant Associate (PL-200)
 education:   BSc Information Technology, North-West University (Pukke)
 languages:   Afrikaans · English · SQL
-side_quest:  Mzansi Work
+side_quest:  Mzansi Work (www.mzansi.work)
 philosophy:  If it takes three clicks and a spreadsheet, it should take one button.
 ```
 
@@ -49,7 +50,15 @@ philosophy:  If it takes three clicks and a spreadsheet, it should take one butt
 ## &nbsp;&#9670;&nbsp; Mzansi Work
 
 <p align="center">
-  <img src="assets/mzansi-work.svg" alt="Mzansi Work: overlooked people, overlooked opportunities" width="100%" />
+  <a href="https://www.mzansi.work">
+    <img src="assets/mzansi-work.svg" alt="Mzansi Work: overlooked people, overlooked opportunities" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mzansi.work">
+    <img src="https://img.shields.io/badge/Visit%20the%20site-www.mzansi.work-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Visit www.mzansi.work" />
+  </a>
 </p>
 
 Most South African jobs never reach LinkedIn or Indeed. The retail floor manager, the learnership candidate, the apprentice electrician, the call-centre agent keeping the country running. Their vacancies live on municipal PDFs, forgotten career portals and WhatsApp groups.
@@ -121,7 +130,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
 <table>
   <tr>
     <td width="150"><b>&#9654; Building</b></td>
-    <td>Mzansi Work: source registry, matching engine, one-click apply</td>
+    <td><a href="https://www.mzansi.work"><b>www.mzansi.work</b></a>: source registry, matching engine, one-click apply</td>
   </tr>
   <tr>
     <td><b>&#9654; Shipping</b></td>
@@ -161,6 +170,9 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   <a href="https://github.com/JackedUpProgrammer">
     <img src="https://img.shields.io/badge/GitHub-JackedUpProgrammer-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" />
   </a>
+  <a href="https://www.mzansi.work">
+    <img src="https://img.shields.io/badge/Website-www.mzansi.work-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1A1A" />
+  </a>
 </p>
 
 <p align="center">
@@ -168,5 +180,6 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
 </p>
 
 <p align="center">
-  <sub><i>Overlooked people. Overlooked opportunities.</i></sub>
+  <sub><i>Overlooked people. Overlooked opportunities.</i></sub><br>
+  <sub><a href="https://www.mzansi.work">www.mzansi.work</a></sub>
 </p>
