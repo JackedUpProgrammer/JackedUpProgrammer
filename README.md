@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Johan Scheepers, Technical Consultant, Microsoft Certified Power Platform Solution Architect Expert" width="100%" />
+  <img src="banner.svg" alt="Johan Scheepers, Technical Consultant, Microsoft Certified Power Platform Solution Architect Expert" width="100%" />
 </p>
 
 <p align="center">
@@ -19,11 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=JackedUpProgrammer&label=Profile%20views&color=00c2a8&style=flat-square&labelColor=0D1117" alt="views"/>
   <img src="https://img.shields.io/badge/Based%20in-South%20Africa-00C2A8?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Speaks-Afrikaans%20%7C%20English-0E75B6?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-7B2FF7?style=flat-square&labelColor=0D1117" />
   <a href="https://www.mzansi.work"><img src="https://img.shields.io/badge/mzansi.work-Live-00C2A8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; About
 
@@ -45,13 +44,13 @@ side_quest:  Mzansi Work (www.mzansi.work)
 philosophy:  If it takes three clicks and a spreadsheet, it should take one button.
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; Mzansi Work
 
 <p align="center">
   <a href="https://www.mzansi.work">
-    <img src="assets/mzansi-work.svg" alt="Mzansi Work: overlooked people, overlooked opportunities" width="100%" />
+    <img src="mzansi-work.svg" alt="Mzansi Work: overlooked people, overlooked opportunities" width="100%" />
   </a>
 </p>
 
@@ -73,7 +72,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; Toolbox
 
@@ -115,15 +114,15 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; Microsoft Certifications
 
 <p align="center">
-  <img src="assets/certifications.svg" alt="Microsoft Certifications: Solution Architect Expert, Functional Consultant Associate, three Fundamentals" width="100%" />
+  <img src="certifications.svg" alt="Microsoft Certifications: Solution Architect Expert, Functional Consultant Associate, three Fundamentals" width="100%" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; Currently
 
@@ -150,7 +149,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; GitHub
 
@@ -159,7 +158,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=C9D1D9&langs_count=8" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## &nbsp;&#9670;&nbsp; Contact
 
@@ -176,7 +175,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="60%" alt="" />
+  <img src="divider.svg" width="60%" alt="" />
 </p>
 
 <p align="center">
