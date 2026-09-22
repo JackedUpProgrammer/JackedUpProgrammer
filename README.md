@@ -157,7 +157,7 @@ Most South African jobs never reach LinkedIn or Indeed. The retail floor manager
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackedUpProgrammer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=C9D1D9&langs_count=8" />
 </p>
 
-<img src="divider.svg" width="100%" alt="" />
+
 
 ## &nbsp;&#9670;&nbsp; Contact
 
